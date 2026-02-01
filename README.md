@@ -1185,7 +1185,7 @@ Este projeto é para fins **educacionais** e não possui fins comerciais. Todo o
   <br>
   <strong>Projeto desenvolvido pelos alunos DARLANN, TALITA e ROGER</strong>
   <br>
-  © 2024 - Todos os direitos reservados à Vila da Folha
+  © 2026 - Todos os direitos reservados à Vila da Folha
 </p>
 
 <p align="center">
