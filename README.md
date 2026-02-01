@@ -46,20 +46,16 @@ A **Ramen Ichiraku Store** é uma aplicação web completa de e-commerce inspira
 
 ```bash
 # 1º Jutsu: Clonar o repositório
-git clone https://github.com/usuario/loja-naruto.git
+git clone https://github.com/reylanbit/Ninja-Store.git
 
 # 2º Jutsu: Entrar na vila (pasta do projeto)
-cd loja-naruto
+Rodei o npm install - todas as dependências estão instaladas
 
 # 3º Jutsu: Abrir o portal (servidor local)
-# Método 1: Python
-python -m http.server 8000
+O servidor dev tá rodando na porta http://localhost:5173
+npm run fix - instala todas as dependências
+npm run start - instala dependências E já abre o servidor dev automaticamente
 
-# Método 2: PHP
-php -S localhost:8000
-
-# Método 3: Node.js (com live-server)
-npx live-server
 ```
 
 **Acesse no navegador:** `http://localhost:8000`
