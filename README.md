@@ -49,7 +49,8 @@ A **Ramen Ichiraku Store** é uma aplicação web completa de e-commerce inspira
 git clone https://github.com/reylanbit/Ninja-Store.git
 
 # 2º Jutsu: Entrar na vila (pasta do projeto)
-Rodei o npm install - todas as dependências estão instaladas
+Rodar o npm install - todas as dependências estão instaladas
+Rodar o npm run dev - para trazer as dependêcias do repositorio a frente
 
 # 3º Jutsu: Abrir o portal (servidor local)
 O servidor dev tá rodando na porta http://localhost:5173
