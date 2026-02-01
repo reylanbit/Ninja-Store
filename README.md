@@ -58,7 +58,7 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 
 ```
 
-**Acesse no navegador:** `http://localhost:8000`
+**Acesse no navegador:** `(http://localhost:5173)`
 
 ## 📁 Estrutura do Projeto
 
