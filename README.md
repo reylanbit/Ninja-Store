@@ -60,9 +60,13 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 ```
 
 **Acesse no navegador:** `(http://localhost:5173)`
-<header>
-  <img src="https://media4.giphy.com/media/...giphy.gif" width="50" class="logo-animado">
-</header>
+/* Exemplo CSS */
+.mini-gif-container {
+  width: 50px;
+  height: 50px;
+  background: url('https://media4.giphy.com/...giphy.gif') center/cover;
+  border-radius: 10px;
+}
 
 ## 📁 Estrutura do Projeto
 
