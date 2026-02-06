@@ -60,7 +60,10 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 ```
 
 **Acesse no navegador:** `(http://localhost:5173)`
-
+<span style="display: inline-block; position: relative;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2eGo5b2hqNHc2Yjd2ZDA5Z3g1amZzZXM1MmNxeTRjdDBhaHRycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBecmGIBBkiaMrTtZt/giphy.gif" width="50" height="50" style="border-radius: 50%;" />
+  <span style="position: absolute; bottom: -5px; right: -5px; background: #ff4757; color: white; border-radius: 50%; width: 20px; height: 20px; font-size: 10px; display: flex; align-items: center; justify-content: center;">✨</span>
+</span>
 ## 📁 Estrutura do Projeto
 
 ```
