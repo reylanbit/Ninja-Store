@@ -6,7 +6,6 @@ Dattebayo
   
   **"Código que respira vida"** ✨
   
-</div>
 ![b9397d70-0232-4a8b-8b3e-edd4c15eb9bb_800x939](https://github.com/user-attachments/assets/ff13b920-8cfe-4605-bc83-80c2dfaf5ac5)
 
 # 🍥 Ramen Ichiraku Store - Loja Temática Naruto
