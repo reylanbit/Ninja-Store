@@ -1,22 +1,8 @@
 # Naruto-Store
 Dattebayo
-## 🎯 Features
-<p>
-  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="25" style="vertical-align: middle;" /> 
-  <strong>Rápido</strong> - Carrega em milissegundos
-</p>
-# <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="45" /> Meu Projeto
-
-<div align="center">
-  
   ![GitHub](https://img.shields.io/badge/status-active-brightgreen)
   ![Version](https://img.shields.io/badge/version-1.0.0-blue)
   
-  <br/>
-  
-  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="100" style="border-radius: 15px; border: 3px solid #00ff88;" />
-  
-  <br/><br/>
   
   **"Código que respira vida"** ✨
   
@@ -81,11 +67,6 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 
 **Acesse no navegador:** `(http://localhost:5173)`
 
-## 🎯 Features
-<p>
-  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="25" style="vertical-align: middle;" /> 
-  <strong>Rápido</strong> - Carrega em milissegundos
-</p>
 
 
 
