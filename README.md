@@ -60,8 +60,12 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 ```
 
 **Acesse no navegador:** `(http://localhost:5173)`
-<img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="80" alt="GIF animado">
 
+<div align="center">
+  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="50" style="border-radius: 10px;" />
+  <br/>
+  <sub><i>✨ Animação ativa</i></sub>
+</div>
 
 
 
