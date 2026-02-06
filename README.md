@@ -1,6 +1,26 @@
 # Naruto-Store
 Dattebayo
+## 🎯 Features
+<p>
+  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="25" style="vertical-align: middle;" /> 
+  <strong>Rápido</strong> - Carrega em milissegundos
+</p>
+# <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="45" /> Meu Projeto
 
+<div align="center">
+  
+  ![GitHub](https://img.shields.io/badge/status-active-brightgreen)
+  ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+  
+  <br/>
+  
+  <img src="https://media.giphy.com/media/OBecmGIBBkiaMrTtZt/giphy.gif" width="100" style="border-radius: 15px; border: 3px solid #00ff88;" />
+  
+  <br/><br/>
+  
+  **"Código que respira vida"** ✨
+  
+</div>
 ![b9397d70-0232-4a8b-8b3e-edd4c15eb9bb_800x939](https://github.com/user-attachments/assets/ff13b920-8cfe-4605-bc83-80c2dfaf5ac5)
 
 # 🍥 Ramen Ichiraku Store - Loja Temática Naruto
