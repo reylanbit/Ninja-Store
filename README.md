@@ -1185,8 +1185,10 @@ Este projeto permitiu o desenvolvimento de habilidades em:
 
 ## 📄 Licença
 
-Este projeto é para fins **educacionais** e não possui fins comerciais. Todo o conteúdo de Naruto é propriedade de Masashi Kishimoto/Shueisha.
+## Licença
 
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é para fins **educacionais** e não possui fins comerciais. Todo o conteúdo de Naruto é propriedade de Masashi Kishimoto/Shueisha.
 **Nota**: Este é um projeto escolar demonstrativo. Nenhum item real é vendido.
 
 ---
