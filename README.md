@@ -1105,7 +1105,7 @@ C:.
 
 | Membro | Função | Especialidade | 
 |--------|--------|---------------|
-| **Darlann** | Hokage do Projeto | Lógica de negócio e JavaScript avançado | ![GIF Animado](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2eGo5b2hqNHc2Yjd2ZDA5Z3g1amZzZXM1MmNxeTRjdDBhaHRycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBecmGIBBkiaMrTtZt/giphy.gif =80x80)
+| **Darlann** | Hokage do Projeto | Lógica de negócio e JavaScript avançado | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2eGo5b2hqNHc2Yjd2ZDA5Z3g1amZzZXM1MmNxeTRjdDBhaHRycyZlcD12MV9pbnRlbm5hbF9naWZfYnlfaWQmY3Q9Zw/OBecmGIBBkiaMrTtZt/giphy.gif" width="60" height="60" style="border-radius: 10px; border: 2px solid #00ff88;" />
 | **Talita** | Kunoichi do Design | UI/UX, responsividade e animações |
 | **Roger** | Sensei do Back-end | Integrações e funcionalidades complexas |
 
