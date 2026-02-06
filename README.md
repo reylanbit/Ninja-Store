@@ -60,20 +60,22 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 ```
 
 **Acesse no navegador:** `(http://localhost:5173)`
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media4.giphy.com/media/...giphy.gif" width="70" style="border-radius: 15px;" />
-      </td>
-      <td>
-        <h1>🚀 Nome do Projeto</h1>
-        <p><i>Uma solução incrível para problemas complexos</i></p>
-      </td>
-    </tr>
-  </table>
+<!-- Com hover effect (funciona no GitHub Pages) -->
+<div style="display: inline-block; position: relative;">
+  <img 
+    id="animated-gif" 
+    src="https://media4.giphy.com/media/...giphy.gif" 
+    width="65" 
+    style="
+      border-radius: 12px;
+      transition: all 0.3s ease;
+      filter: grayscale(20%);
+    "
+    onmouseover="this.style.transform='scale(1.2)'; this.style.filter='grayscale(0%)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(20%)'"
+    title="Clique para ver mais!"
+  />
 </div>
-
 
 ## 📁 Estrutura do Projeto
 
