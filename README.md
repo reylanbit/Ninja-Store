@@ -60,22 +60,9 @@ npm run start - instala dependências E já abre o servidor dev automaticamente
 ```
 
 **Acesse no navegador:** `(http://localhost:5173)`
-<!-- Com hover effect (funciona no GitHub Pages) -->
-<div style="display: inline-block; position: relative;">
-  <img 
-    id="animated-gif" 
-    src="https://media4.giphy.com/media/...giphy.gif" 
-    width="65" 
-    style="
-      border-radius: 12px;
-      transition: all 0.3s ease;
-      filter: grayscale(20%);
-    "
-    onmouseover="this.style.transform='scale(1.2)'; this.style.filter='grayscale(0%)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(20%)'"
-    title="Clique para ver mais!"
-  />
-</div>
+<header>
+  <img src="https://media4.giphy.com/media/...giphy.gif" width="50" class="logo-animado">
+</header>
 
 ## 📁 Estrutura do Projeto
 
